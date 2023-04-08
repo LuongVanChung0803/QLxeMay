@@ -1,0 +1,13 @@
+D:\bài tập c#\bài tập c# tiếp theo\xemay\xemay\bin\Debug\Properties\DBQLXeMay.mdf
+D:\bài tập c#\bài tập c# tiếp theo\xemay\xemay\bin\Debug\Properties\DBQLXeMay_log.ldf
+D:\bài tập c#\bài tập c# tiếp theo\xemay\xemay\bin\Debug\xemay.exe.config
+D:\bài tập c#\bài tập c# tiếp theo\xemay\xemay\bin\Debug\xemay.exe
+D:\bài tập c#\bài tập c# tiếp theo\xemay\xemay\bin\Debug\xemay.pdb
+D:\bài tập c#\bài tập c# tiếp theo\xemay\xemay\obj\Debug\xemay.csproj.AssemblyReference.cache
+D:\bài tập c#\bài tập c# tiếp theo\xemay\xemay\obj\Debug\xemay.csproj.SuggestedBindingRedirects.cache
+D:\bài tập c#\bài tập c# tiếp theo\xemay\xemay\obj\Debug\xemay.Form1.resources
+D:\bài tập c#\bài tập c# tiếp theo\xemay\xemay\obj\Debug\xemay.Properties.Resources.resources
+D:\bài tập c#\bài tập c# tiếp theo\xemay\xemay\obj\Debug\xemay.csproj.GenerateResource.cache
+D:\bài tập c#\bài tập c# tiếp theo\xemay\xemay\obj\Debug\xemay.csproj.CoreCompileInputs.cache
+D:\bài tập c#\bài tập c# tiếp theo\xemay\xemay\obj\Debug\xemay.exe
+D:\bài tập c#\bài tập c# tiếp theo\xemay\xemay\obj\Debug\xemay.pdb
